@@ -141,7 +141,7 @@ python sm.py
 
 Download:
 
-> **Google Drive:** *(Paste your download link here.)*
+> **Google Drive:** https://drive.google.com/file/d/1pjGScauCyIFTxfjDzsowYZ-_ALJvoLuq/view?usp=sharing
 
 Then simply run:
 

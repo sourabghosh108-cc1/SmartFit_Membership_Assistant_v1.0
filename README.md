@@ -68,25 +68,101 @@ SmartFit/
 
 ---
 
-## ▶️ How to Run
+# 🚀 Installation & Setup
 
-### Option 1 – Python
+## Quick Start
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sourabghosh108-cc1/SmartFit_Membership_Assistant_v1.0.git
+cd SmartFit_Membership_Assistant_v1.0
+```
+
+### Windows
+
+Install:
+
+- Git: https://git-scm.com/download/win
+- Python 3: https://www.python.org/downloads/
+
+Run:
 
 ```bash
 python sm.py
 ```
 
-### Option 2 – Executable
+---
 
-Simply double-click:
+### Ubuntu / Debian
+
+```bash
+sudo apt update
+sudo apt install git python3
+
+git clone https://github.com/sourabghosh108-cc1/SmartFit_Membership_Assistant_v1.0.git
+
+cd SmartFit_Membership_Assistant_v1.0
+
+python3 sm.py
+```
+
+---
+
+### Fedora
+
+```bash
+sudo dnf install git python3
+
+git clone https://github.com/sourabghosh108-cc1/SmartFit_Membership_Assistant_v1.0.git
+
+cd SmartFit_Membership_Assistant_v1.0
+
+python3 sm.py
+```
+
+---
+
+### Arch Linux
+
+```bash
+sudo pacman -S git python
+
+git clone https://github.com/sourabghosh108-cc1/SmartFit_Membership_Assistant_v1.0.git
+
+cd SmartFit_Membership_Assistant_v1.0
+
+python sm.py
+```
+
+---
+
+### Standalone Windows Executable
+
+Download:
+
+> **Google Drive:** *(Paste your download link here.)*
+
+Then simply run:
 
 ```
 SmartFit_Membership_Assistant.exe
 ```
 
-No Python installation is required.
-
 ---
+
+# ▶️ Usage
+
+Run the program and follow the on-screen prompts.
+
+The application will ask for:
+
+- Age
+- Medical condition
+- Membership type
+- Personal training preference (Basic membership only)
+
+It will then recommend a suitable fitness program, membership plan, and any applicable offers.
 
 ## 📸 Sample Output
 

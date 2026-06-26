@@ -60,7 +60,7 @@ Based on the user's responses, the program:
 ```
 SmartFit/
 │
-├── SmartFit.py
+├── sm.py
 ├── SmartFit_Membership_Assistant.exe
 ├── README.md
 └── screenshots/
@@ -73,7 +73,7 @@ SmartFit/
 ### Option 1 – Python
 
 ```bash
-python SmartFit.py
+python sm.py
 ```
 
 ### Option 2 – Executable
